@@ -1,0 +1,17 @@
+.star-list {
+  list-style-type: none;
+}
+
+.star-list li {
+  display: inline;
+  cursor: pointer;
+}
+
+.inactive {
+  color: black;
+}
+
+.active {
+  color: rgb(168, 168, 3);
+}
+
